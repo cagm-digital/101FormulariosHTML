@@ -26,8 +26,7 @@
 				echo "Acceso no permitido!";
 			}	
 		?>
-		<br>
-		<br>		
+		<br><br>		
 	    <button type="button" onclick="location.href='formularioIngresoNumber.php'">Volver</button>		
 	</body>
 </html>

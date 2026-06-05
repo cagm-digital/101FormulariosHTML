@@ -7,8 +7,7 @@
 	</head>
 	<body>
 		<h1>Text area en PHP: Área amplia para texto</h1>		
-		<h2>Datos ingresados</h2>		
-		
+		<h2>Datos ingresados</h2>				
 		<?php 
 		if ($_SERVER['REQUEST_METHOD'] === 'POST')
 		{

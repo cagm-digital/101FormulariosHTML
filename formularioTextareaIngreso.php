@@ -9,7 +9,7 @@
 		<h1>Text area en PHP: Área amplia para texto</h1>		
 		<form action="formularioTextareaDestino.php" method="POST">			
 			 <textarea name="mensaje" rows="10" cols="50" placeholder="Ingresa el texto..." required autofocus></textarea>
-		<br>
+		<br><br>
 		<button type="submit">Enviar!</button>		
 		</form>		
 	</body>
